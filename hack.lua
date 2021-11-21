@@ -111,7 +111,7 @@ local _aimsp_settings; _aimsp_settings = {
     esp_toggle_key = Enum.KeyCode.L,
     esp_thickness = 2, -- thickness in pixels
     rainbow_speed = 5,
-    use_rainbow = true, -- rgb mode
+    use_rainbow = false, -- rgb mode
     crosshair = {
         use = false,
 
